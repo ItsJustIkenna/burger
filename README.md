@@ -8,7 +8,7 @@ A full-stack application that allows you to add burgers to a list and eat them. 
 
 ## Screenshot
 
-![Capture6.PNG](Capture.PNG)
+![Capture6.PNG](Capture6.PNG)
 
 ## Table Of Contents
 
